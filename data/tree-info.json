@@ -1,0 +1,131 @@
+{
+  "alberi": [
+    {
+      "nome": "Banano",
+      "specie": "Musa x paradisiaca",
+      "paesi": ["India", "Cina", "Ecuador", "Filippine", "Brasile"],
+      "prezzo": "14.90",
+      "co2": "1",
+      "vita": "25",
+      "imp amb": "6",
+      "imp soc eco": "9",
+      "descrizione": ""
+    },
+    {
+      "nome": "Cacao",
+      "specie": "Theobroma cacao",
+      "paesi": ["Costa d'Avorio", "Ghana", "Indonesia", "Brasile", "Ecuador"],
+      "prezzo": "16.90",
+      "co2": "5.5",
+      "vita": "50",
+      "imp amb": "7",
+      "imp soc eco": "8",
+      "descrizione": ""
+    },
+    {
+      "nome": "Caffè",
+      "specie": "Coffea arabica",
+      "paesi": ["Brasile", "Vietnam", "Colombia", "Etiopia", "Indonesia"],
+      "prezzo": "21.90",
+      "co2": "5.5",
+      "vita": "30",
+      "imp amb": "6",
+      "imp soc eco": "10",
+      "descrizione": ""
+    },
+    {
+      "nome": "Leucena",
+      "specie": "Leucaena leucocephala",
+      "paesi": ["Messico", "India", "Filippine", "Indonesia", "Australia"],
+      "prezzo": "21.90",
+      "co2": "30",
+      "vita": "30",
+      "imp amb": "8",
+      "imp soc eco": "6",
+      "descrizione": ""
+    },
+    {
+      "nome": "Neem",
+      "specie": "Azadirachta indica",
+      "paesi": ["India", "Myanmar", "Thailandia", "Nigeria", "Pakistan"],
+      "prezzo": "35.90",
+      "co2": "90",
+      "vita": "200",
+      "imp amb": "7",
+      "imp soc eco": "8",
+      "descrizione": ""
+    },
+    {
+      "nome": "Cedro",
+      "specie": "Cedrus libani",
+      "paesi": ["Libano", "Turchia", "Grecia", "Marocco", "Cipro"],
+      "prezzo": "35.90",
+      "co2": "50",
+      "vita": "2000",
+      "imp amb": "7",
+      "imp soc eco": "7",
+      "descrizione": ""
+    },
+    {
+      "nome": "Avocado",
+      "specie": "Persea americana",
+      "paesi": [
+        "Messico",
+        "Repubblica Dominicana",
+        "Perù",
+        "Indonesia",
+        "Kenya"
+      ],
+      "prezzo": "32.90",
+      "co2": "50",
+      "vita": "100",
+      "imp amb": "5",
+      "imp soc eco": "9",
+      "descrizione": ""
+    },
+    {
+      "nome": "Cassia",
+      "specie": "Cassia fistula",
+      "paesi": ["India", "Sri Lanka", "Thailandia", "Malesia", "Indonesia"],
+      "prezzo": "25.90",
+      "co2": "70",
+      "vita": "40",
+      "imp amb": "7",
+      "imp soc eco": "6",
+      "descrizione": ""
+    },
+    {
+      "nome": "Mango",
+      "specie": "Mangifera indica",
+      "paesi": ["India", "Cina", "Thailandia", "Messico", "Pakistan"],
+      "prezzo": "37.90",
+      "co2": "70",
+      "vita": "200",
+      "imp amb": "6",
+      "imp soc eco": "9",
+      "descrizione": ""
+    },
+    {
+      "nome": "Caoba",
+      "specie": "Swietenia macrophylla",
+      "paesi": ["Brasile", "Perù", "Messico", "Bolivia", "Guatemala"],
+      "prezzo": "35.90",
+      "co2": "120",
+      "vita": "350",
+      "imp amb": "6",
+      "imp soc eco": "8",
+      "descrizione": ""
+    },
+    {
+      "nome": "Mahogany Africano",
+      "specie": "Khaya senegalensis",
+      "paesi": ["Senegal", "Nigeria", "Ghana", "Costa d'Avorio", "Camerun"],
+      "prezzo": "35.90",
+      "co2": "100",
+      "vita": "200",
+      "imp amb": "7",
+      "imp soc eco": "7",
+      "descrizione": ""
+    }
+  ]
+}
