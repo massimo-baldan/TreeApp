@@ -50,3 +50,6 @@ configura il file main.js per creare e montare l'app;
 configura il file router.js (o index.js nella cartella router) per creare le rotte e il router stesso;
 
 configura il file store.js per creare l'istanza del Vuex
+
+configura il file server.js per fare in modo che il server prenda vita
+configura il file .env per le variabili globali e mettici dentro la porta del server
