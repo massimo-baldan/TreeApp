@@ -1,0 +1,14 @@
+:root {
+  --dark: #3d3c53;
+  --dark_darker: #070b0e;
+  --light: #f9f9f9;
+  --app_theme_light_lighter: #b2ffa9;
+  --app_theme_light: #0ffa4a;
+  --app_theme_dark: #047658;
+  --app_theme_dark_darker: #05381e;
+  --app_theme_hover: #fc814a;
+}
+
+:root {
+  --background-color: var(--light);
+}

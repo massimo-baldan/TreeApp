@@ -1,0 +1,75 @@
+FRONTEND: 
+    - file css:
+        - global css
+        - root css
+    
+
+    -reusable components:
+        - header:
+            - link to the profile || sign in 
+            - search bar      
+
+        - menu:
+            - shop link
+            - map link
+            - graphics link
+            - about us links 
+
+        - footer:
+            - copyright stuff
+            - contact us links 
+            # dark background, reusable for all pages
+
+
+    - landing page:
+        - header:
+            - logo
+            - title
+            - login and signin buttons
+
+        - hero section:
+            - text & background photo
+
+        - displayer component:
+            - link in the middle
+            - 1 or 2 photos in the background
+            # shop (plant a tree), map (explore the map), graphics (consult data), sub (1 month 1 tree)
+
+        - footer: --reusable components
+    
+
+    - shop page:
+        - header: --reusable components
+
+        - menu: --reusable components
+
+        - navbar with filters:
+            - alphabetic, price, CO2, social and economical impact
+        
+        - product section:
+            - tree list:
+                > tree cards
+            - link to the cart
+        
+        - footer : --reusable components
+    
+
+    - map page:
+        - header: --reusable components
+
+        - menu: --reusable components
+
+        - map section:
+            - map: #with leaflet
+                - selectable countries
+                - 
+
+            - right sidebar:
+                - search bar to filter
+                - results section #of the filtrage
+                - close button
+                #make the width editable
+            
+
+
+            
