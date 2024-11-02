@@ -13,10 +13,6 @@
         <i @click="checkLogIn" class="bi bi-person-circle fs-1"></i>
       </div>
     </div>
-
-    <div class="row pt-5">
-      <button @click="fetchUsers">show users</button>
-    </div>
   </div>
 </template>
 
@@ -25,22 +21,6 @@ export default {
   methods: {
     checkLogIn() {
       console.log('clicked')
-    },
-    fetchUsers() {
-      fetch('http://localhost:54321/fetchUsers')
-        .then((response) => {
-          if (!response.ok) {
-            console.error('response not ok')
-            return
-          }
-          return response.json()
-        })
-        .then((data) => {
-          console.log('Utenti fetchati:', data)
-        })
-        .catch((error) => {
-          console.error('Errore durante il fetch:', error)
-        })
     }
   }
 }

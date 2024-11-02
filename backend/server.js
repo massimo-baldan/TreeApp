@@ -6,6 +6,7 @@ const path = require("path");
 const routes = require("./routes/index");
 const sequelize = require("./db/connection");
 const seedUsers = require("./db/seeders/userSeeder"); // Importa il seeder
+const seedTrees = require("./db/seeders/treeSeeder"); // Importa il seeder
 
 const app = express(); //creo l'app
 const port = process.env.PORT;
@@ -23,6 +24,7 @@ sequelize
     console.log("Database connesso e sincronizzato!");
     if (process.env.NODE_ENV !== "production") {
       await seedUsers();
+      await seedTrees();
     }
   })
   .catch((err) => {

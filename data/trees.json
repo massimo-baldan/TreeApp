@@ -1,0 +1,125 @@
+{
+  "trees": [
+    {
+      "name": "Banano",
+      "specie": "Musa x paradisiaca",
+      "region": "India/Cina/Ecuador/Filippine/Brasile",
+      "cost": "14.90",
+      "co2": "1",
+      "lifeExp": "25",
+      "ambImp": "6",
+      "socImp": "9",
+      "description": ""
+    },
+    {
+      "name": "Cacao",
+      "specie": "Theobroma cacao",
+      "region": "Costa d'Avorio/Ghana/Indonesia/Brasile/Ecuador",
+      "cost": "16.90",
+      "co2": "5.5",
+      "lifeExp": "50",
+      "ambImp": "7",
+      "socImp": "8",
+      "description": ""
+    },
+    {
+      "name": "Caffè",
+      "specie": "Coffea arabica",
+      "region": "Brasile/Vietnam/Colombia/Etiopia/Indonesia",
+      "cost": "21.90",
+      "co2": "5.5",
+      "lifeExp": "30",
+      "ambImp": "6",
+      "socImp": "10",
+      "description": ""
+    },
+    {
+      "name": "Leucena",
+      "specie": "Leucaena leucocephala",
+      "region": "Messico/India/Filippine/Indonesia/Australia",
+      "cost": "21.90",
+      "co2": "30",
+      "lifeExp": "30",
+      "ambImp": "8",
+      "socImp": "6",
+      "description": ""
+    },
+    {
+      "name": "Neem",
+      "specie": "Azadirachta indica",
+      "region": "India/Myanmar/Thailandia/Nigeria/Pakistan",
+      "cost": "35.90",
+      "co2": "90",
+      "lifeExp": "200",
+      "ambImp": "7",
+      "socImp": "8",
+      "description": ""
+    },
+    {
+      "name": "Cedro",
+      "specie": "Cedrus libani",
+      "region": "Libano/Turchia/Grecia/Marocco/Cipro",
+      "cost": "35.90",
+      "co2": "50",
+      "lifeExp": "2000",
+      "ambImp": "7",
+      "socImp": "7",
+      "description": ""
+    },
+    {
+      "name": "Avocado",
+      "specie": "Persea americana",
+      "region": "Messico/Repubblica Dominicana/Perù/Indonesia/Kenya",
+      "cost": "32.90",
+      "co2": "50",
+      "lifeExp": "100",
+      "ambImp": "5",
+      "socImp": "9",
+      "description": ""
+    },
+    {
+      "name": "Cassia",
+      "specie": "Cassia fistula",
+      "region": "India/Sri Lanka/Thailandia/Malesia/Indonesia",
+      "cost": "25.90",
+      "co2": "70",
+      "lifeExp": "40",
+      "ambImp": "7",
+      "socImp": "6",
+      "description": ""
+    },
+    {
+      "name": "Mango",
+      "specie": "Mangifera indica",
+      "region": "India/Cina/Thailandia/Messico/Pakistan",
+      "cost": "37.90",
+      "co2": "70",
+      "lifeExp": "200",
+      "ambImp": "6",
+      "socImp": "9",
+      "description": ""
+    },
+    {
+      "name": "Caoba",
+      "specie": "Swietenia macrophylla",
+      "region": "Brasile/Perù/Messico/Bolivia/Guatemala",
+      "cost": "35.90",
+      "co2": "120",
+      "lifeExp": "350",
+      "ambImp": "6",
+      "socImp": "8",
+      "description": ""
+    },
+    {
+      "name": "Mahogany Africano",
+      "specie": "Khaya senegalensis",
+      "region": "Senegal/Nigeria/Ghana/Costa d'Avorio/Camerun",
+      "cost": "35.90",
+      "co2": "100",
+      "lifeExp": "200",
+      "ambImp": "7",
+      "socImp": "7",
+      "description": ""
+    }
+  ]
+}
